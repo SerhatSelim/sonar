@@ -1,6 +1,6 @@
 server{
     listen      9000;
-    server_name sonarqube.developerinsider.co;
+    server_name 167.99.81.209;
 
     access_log  /var/log/nginx/sonar.access.log;
     error_log   /var/log/nginx/sonar.error.log;
